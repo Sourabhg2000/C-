@@ -1,0 +1,7 @@
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\bin\Debug\Assignment11.exe.config
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\bin\Debug\Assignment11.exe
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\bin\Debug\Assignment11.pdb
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.AssemblyReference.cache
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\obj\Debug\Assignment11.exe
+C:\Users\soura\OneDrive\Desktop\.NET\Assignment11\Assignment11\obj\Debug\Assignment11.pdb
